@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">👋 Hi, I'm Mosaddique Khalil</h1>
 
-<h3 align="center">💻 Passionate Software Developer | 🌐 AI & Full-Stack Enthusiast</h3>
+<h3 align="center">💻 Passionate Software Developer | 🌐 Blockchain & Full-Stack Enthusiast</h3>
 
 <p align="center">
 🎓 2nd Year ECE Student <br>
@@ -25,12 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/syedmosaddique071>
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+
 
 
 
