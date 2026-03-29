@@ -32,14 +32,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
----
 
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MD-IRFAN-RAJ&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -49,12 +42,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-- 💡 Innovation-driven developer building scalable, real-world solutions  
-- 🌱 Currently exploring: AI integration, Microservices, System Design  
-- 🔭 Project Lead: **Swasthya Sampark – Telemedicine & Emergency Healthcare Platform**  
-- ⚡ Core strengths: Full-Stack Development, AI-driven apps, Cloud deployment  
-- 🎯 Goal: Grow as a software engineer while contributing to impactful products  
-- 📫 Contact: **khalilmosaddique@gmail.com**  
+- 💡 Innovation-driven developer building scalable, real-world solutions 
 - 🌐 Portfolio: 
 
 ---
@@ -84,7 +72,7 @@ Here are some ideas to get you started:
 
 ### 🧠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github"/>
+  <img src="https://skillicons.dev/icons?i=python,java,git,github"/>
 </p>
 
 ---
