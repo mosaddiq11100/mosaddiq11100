@@ -14,3 +14,81 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">👋 Hi, I'm Mosaddique Khalil</h1>
+
+<h3 align="center">💻 Passionate Software Developer | 🌐 AI & Full-Stack Enthusiast</h3>
+
+<p align="center">
+🎓 2nd Year ECE Student <br>
+🤝 Seeking Software Engineering Internships
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/syedmosaddique071>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MD-IRFAN-RAJ&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github.com/mosaddiq11100"/>
+</p>
+
+---
+
+## 🚀 About Me
+- 💡 Innovation-driven developer building scalable, real-world solutions  
+- 🌱 Currently exploring: AI integration, Microservices, System Design  
+- 🔭 Project Lead: **Swasthya Sampark – Telemedicine & Emergency Healthcare Platform**  
+- ⚡ Core strengths: Full-Stack Development, AI-driven apps, Cloud deployment  
+- 🎯 Goal: Grow as a software engineer while contributing to impactful products  
+- 📫 Contact: **khalilmosaddique@gmail.com**  
+- 🌐 Portfolio: 
+
+---
+
+## 🏆 Certifications & Achievements
+- AWS Cloud Practitioner  
+
+
+---
+
+## 🛠️ Technical Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker"/>
+</p>
+
+### 🧠 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github"/>
+</p>
+
+---
+
+
+
+⭐ If you like my work, consider starring my repositories!
